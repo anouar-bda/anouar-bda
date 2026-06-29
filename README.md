@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anouar Lacheheb 👋</h1>
+<h1 align="center">Hi, I'm Anouar Lacheheb </h1>
 
 <p align="center">
   <b>Football Data Analyst</b> · MSc International Business with Data Analytics · Manchester, UK
